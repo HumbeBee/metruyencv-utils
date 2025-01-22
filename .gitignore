@@ -2,15 +2,6 @@
 # or http://gitignore.io
 # 1/3/2023, 9:21:45 PM
 
-### TypeScript ###
-# Type declaration files
-*.d.ts
-# TypeScript cache files
-*.tsbuildinfo
-# TypeScript Generated files
-*.js
-*.js.map
-
 ### Node ###
 # Logs
 logs
