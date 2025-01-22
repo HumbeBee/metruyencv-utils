@@ -122,3 +122,5 @@ tslint.yml
 .env.production
 .env.test
 .env
+
+*.zip
